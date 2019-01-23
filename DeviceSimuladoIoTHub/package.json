@@ -1,0 +1,17 @@
+{
+  "name": "DeviceSimuladoIoTHub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Dispositivo-iothub.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/event-hubs": "^1.0.7",
+    "azure-iot-device": "^1.7.1",
+    "azure-iot-device-mqtt": "^1.7.1"
+  }
+}
